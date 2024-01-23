@@ -18,6 +18,13 @@ This is my first challenge homework assignment for the BootCamp course titled "M
     2. Download the code and utilize your SSH key to link it to your github account, then you can begin refactoring the code, ensuring you git add, git commit, git push updates to your repo in github
     3. Once complete, go to pages and deploy the website live
 
+## My Results
+    1. My Github Repo:  https://github.com/rdtauche/challenge1.git
+    2. My Pages Deploy: https://rdtauche.github.io/challenge1/
+    3. Screenshot of my live pages site:
+   ![image](https://github.com/rdtauche/challenge1/assets/57552771/766672c0-35c5-4b6e-b2b2-fe003c5ff5b3)
+
+
 ## Usage
 
 This challange is meant to capture the main notes for HTML, CSS amd Git providing the student an opportunity to apply their knowledge learned in class to a real world project.
